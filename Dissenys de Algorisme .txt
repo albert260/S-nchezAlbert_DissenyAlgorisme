@@ -1,0 +1,63 @@
+1-Calcular àrea d'un rectangle
+
+Pedeirle al usuario que entre la altura del rectangulo
+
+Recibes la altura 
+
+Pedirle al usuario que entre la anchura del rectangulo 
+
+Recibes la anchura 
+
+Ahora multiplicas la altura por la anchura para obtener el area del rectangulo
+
+Muestra el resultado al usuario
+
+2- Calcular nota
+
+Introduce la primera nota 
+
+leer la nota 
+
+Introduce la segunda nota 
+
+leer la nota 
+
+Introduce la tercera nota 
+
+leer la nota 
+
+Alpicar la siguiente operación 
+
+(nota1 * 0.5) + (nota2 * 0.3) + (nota3 * 0.2)
+
+Mostrar la nota final de mòdulo 
+
+3-Major de 18
+
+Pedirle al usuario que entre su edad 
+
+Calcula su edat mirando la fecha actual 
+
+Condicion : Si tiene 18 o mas años, permites la entrada 
+            Si es menor de 18 , denegar la entrada 
+
+Mensaje de aviso de si puede entra o no 
+
+4- Potion 
+
+Si se toma una pocion 
+
+Incrementar su vida en 10 
+
+Actualizar la vida en el hud 
+
+Restar una poción al usuario 
+
+
+5-Movimiento enemigo 
+
+El enemigo camina 10 unidades 
+
+Girar 90 grados 
+
+Vuelve a repetir el primer paso
